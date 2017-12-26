@@ -1,0 +1,14 @@
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\CameGuessTheNumber\Game\bin\Debug\Game.exe.config
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\CameGuessTheNumber\Game\bin\Debug\Game.exe
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\CameGuessTheNumber\Game\bin\Debug\Game.pdb
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\CameGuessTheNumber\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\CameGuessTheNumber\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\CameGuessTheNumber\Game\obj\Debug\Game.exe
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\CameGuessTheNumber\Game\obj\Debug\Game.pdb
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\MyProjects\CameGuessTheNumber\Game\bin\Debug\Game.exe.config
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\MyProjects\CameGuessTheNumber\Game\bin\Debug\Game.exe
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\MyProjects\CameGuessTheNumber\Game\bin\Debug\Game.pdb
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\MyProjects\CameGuessTheNumber\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\MyProjects\CameGuessTheNumber\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\MyProjects\CameGuessTheNumber\Game\obj\Debug\Game.exe
+C:\Users\ipp00\OneDrive\Documents\Visual Studio 2017\Projects\MyProjects\CameGuessTheNumber\Game\obj\Debug\Game.pdb
